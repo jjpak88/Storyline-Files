@@ -24,7 +24,8 @@ You can view a sample of the student handbook social media platforms overview le
 ![Screenshot 2: Social Media Platforms Overview](https://github.com/jjpak88/Storyline-Files/blob/e126cdd47ae33bddcacf54afbca556adba14c742/Screenshot%202025-08-04%20at%2011.35.50%20AM.png)
 *Screenshot 2: Social Media Platforms Overview*
 
-
+![Screenshot 3: More Social Media Platforms Overview](https://github.com/jjpak88/Storyline-Files/blob/e126cdd47ae33bddcacf54afbca556adba14c742/Screenshot%202025-08-04%20at%2011.36.12%20AM.png)
+*Screenshot 3: More From Social Media Platforms Overview*
 
 ## 📄 License
 
