@@ -17,9 +17,13 @@ This repository contains an Articulate Storyline project file (`.story`) designe
 
 🚀 **How to View**
 
-You can view the student handbook screenshots directly here:
+You can view a sample of the student handbook social media platforms overview lesson screenshots directly here:
 ![Screenshot 1: Social Media Platforms Overview](https://github.com/jjpak88/Storyline-Files/blob/e126cdd47ae33bddcacf54afbca556adba14c742/Screenshot%202025-08-04%20at%2011.36.04%20AM.png)
 *Screenshot 1: Social Media Platforms Overview*
+
+![Screenshot 2: Social Media Platforms Overview](https://github.com/jjpak88/Storyline-Files/blob/e126cdd47ae33bddcacf54afbca556adba14c742/Screenshot%202025-08-04%20at%2011.35.50%20AM.png)
+*Screenshot 1: Social Media Platforms Overview*
+
 
 
 ## 📄 License
