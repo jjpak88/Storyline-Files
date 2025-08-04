@@ -18,7 +18,7 @@ This repository contains an Articulate Storyline project file (`.story`) designe
 🚀 **How to View**
 
 You can view the escape room screenshots directly here:
-![Screenshot 1: Introduction]([https://raw.githubusercontent.com/your-username/your-repo-name/branch-name/images/slide1.png](https://github.com/jjpak88/Storyline-Files/blob/e126cdd47ae33bddcacf54afbca556adba14c742/Screenshot%202025-08-04%20at%2011.35.50%20AM.png))
+![Screenshot 1: Introduction](https://github.com/jjpak88/Storyline-Files/blob/e126cdd47ae33bddcacf54afbca556adba14c742/Screenshot%202025-08-04%20at%2011.35.50%20AM.png))
 *Screenshot 1: Social Media Platforms Overview*
 
 
